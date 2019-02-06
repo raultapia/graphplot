@@ -4,6 +4,11 @@
 github.com/rautaplop
 </pre>
 
+<h2>HOW TO USE</h2>
+<pre>
+graphplot(x,[y1,y2,y3],info);
+</pre>
+
 <h2>HOW TO USE STRUCT INFO</h2>
 <pre>
 info.title        NAME_OF_THE_GRAPH
