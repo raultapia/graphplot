@@ -1,6 +1,6 @@
 <h1>graphplot.m</h1>
 <pre>
-@rautaplop
+rautaplop
 github.com/rautaplop
 </pre>
 
