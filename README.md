@@ -1,4 +1,4 @@
-<h1>graphplot.p</h1>
+<h1>graphplot</h1>
 <pre>
 rautaplop
 github.com/rautaplop
