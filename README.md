@@ -20,7 +20,7 @@ info.sub          SUBPLOT_MATRIX          0 IF NO SUBPLOT
 info.print        NAME_OF_FILE_TO_PRINT   0 IF NO PRINT
 </pre>
 
-<h2>EXAMPLE<h2>
+<h2>EXAMPLE</h2>
 <pre>
 x12 = -10:0.001:10;
 y1 = sin(x12);
