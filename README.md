@@ -6,7 +6,7 @@ github.com/rautaplop
 
 <h2>HOW TO USE</h2>
 <pre>
-graphplot(x,[y1,y2,y3],info);
+graphplot(x,{y1,y2,y3},info);
 </pre>
 
 <h2>HOW TO USE STRUCT INFO</h2>
