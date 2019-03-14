@@ -1,16 +1,15 @@
-<h1>graphplot</h1>
-<pre>
+# graphplot
 rautaplop
+
 github.com/rautaplop
-</pre>
 
-<h2>HOW TO USE</h2>
-<pre>
+## HOW TO USE
+```
 graphplot(x,{y1,y2,y3},info);
-</pre>
+```
 
-<h2>HOW TO USE STRUCT INFO</h2>
-<pre>
+## HOW TO USE STRUCT INFO
+```
 info.title        NAME_OF_THE_GRAPH
 info.color        COLOR_AND_STYLE
 info.xlabel       LABEL_X
@@ -18,10 +17,10 @@ info.ylabel       LABEL_Y
 info.legend       LEGEND                  JUST IF MORE THAN 1 PLOT
 info.sub          SUBPLOT_MATRIX          0 IF NO SUBPLOT
 info.print        NAME_OF_FILE_TO_PRINT   0 IF NO PRINT
-</pre>
+```
 
-<h2>EXAMPLE</h2>
-<pre>
+## EXAMPLE
+```
 x12 = -10:0.001:10;
 y1 = sin(x12);
 y2 = cos(x12);
@@ -47,6 +46,6 @@ info.legend = {'exp(x)', '-exp(x)'};
 info.sub = [2,1,2];
 info.print = 'output.png';
 graphplot(x34,{y3,y4},info);
-</pre>
+```
 
 ![output.png](https://raw.githubusercontent.com/rautaplop/graphplot/master/output.png)
