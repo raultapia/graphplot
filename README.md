@@ -51,4 +51,4 @@ info.print = 'output.png';
 graphplot(x34,{y3,y4},info);
 ```
 
-![output.png](https://raw.githubusercontent.com/rautaplop/graphplot/master/output.png)
+![output](https://raw.githubusercontent.com/rautaplop/graphplot/master/output.png)
