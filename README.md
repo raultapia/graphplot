@@ -3,6 +3,9 @@ rautaplop
 
 github.com/rautaplop
 
+## DESCRIPTION
+A MATLAB/GNU Octave function to plot graphics
+
 ## HOW TO USE
 ```
 graphplot(x,{y1,y2,y3},info);
