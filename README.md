@@ -50,5 +50,4 @@ info.sub = [2,1,2];
 info.print = 'output.png';
 graphplot(x34,{y3,y4},info);
 ```
-
-<img src="https://raw.githubusercontent.com/rautaplop/graphplot/master/output.png" width="80%" height="80%"/>
+![output](https://raw.githubusercontent.com/rautaplop/graphplot/master/output.png)
