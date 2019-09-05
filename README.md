@@ -9,7 +9,7 @@ A MATLAB/GNU Octave function to plot graphics.
 ```
 graphplot(x,{y1,y2,y3},info);
 ```
-# Usage of struct info
+Usage of struct info:
 ```
 info.title        NAME_OF_THE_GRAPH
 info.color        COLOR_AND_STYLE
