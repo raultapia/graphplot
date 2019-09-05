@@ -1,17 +1,15 @@
 # graphplot
-rautaplop
+[![Latest Version](https://img.shields.io/github/release/rautaplop/graphplot)](https://github.com/rautaplop/graphplot/releases)
+[![License       ](https://img.shields.io/github/license/rautaplop/graphplot)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/rautaplop/graphplot)](README.md)
 
-github.com/rautaplop
+A MATLAB/GNU Octave function to plot graphics.
 
-## DESCRIPTION
-A MATLAB/GNU Octave function to plot graphics
-
-## HOW TO USE
+## 🖥 Usage
 ```
 graphplot(x,{y1,y2,y3},info);
 ```
-
-## HOW TO USE STRUCT INFO
+# Usage of struct info
 ```
 info.title        NAME_OF_THE_GRAPH
 info.color        COLOR_AND_STYLE
@@ -22,7 +20,7 @@ info.sub          SUBPLOT_MATRIX          0 IF NO SUBPLOT
 info.print        NAME_OF_FILE_TO_PRINT   0 IF NO PRINT
 ```
 
-## EXAMPLE
+## 🛠 Usage example
 ```
 x12 = -10:0.001:10;
 y1 = sin(x12);
@@ -51,3 +49,6 @@ info.print = 'output.png';
 graphplot(x34,{y3,y4},info);
 ```
 ![output](https://raw.githubusercontent.com/rautaplop/graphplot/master/output.png)
+
+## 📝 Copyright and license
+Copyright © 2019, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).
