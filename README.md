@@ -48,7 +48,7 @@ info.sub = [2,1,2];
 info.print = 'output.png';
 graphplot(x34,{y3,y4},info);
 ```
-![output](https://raw.githubusercontent.com/rautaplop/graphplot/master/output.png)
+![output](https://raw.githubusercontent.com/rautaplop/graphplot/master/doc/output.png)
 
 ## 📝 Copyright and license
 Copyright © 2019, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).
