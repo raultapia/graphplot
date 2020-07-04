@@ -2,6 +2,7 @@
 [![Latest Version](https://img.shields.io/github/release/rautaplop/graphplot)](https://github.com/rautaplop/graphplot/releases)
 [![License       ](https://img.shields.io/github/license/rautaplop/graphplot)](LICENSE)
 [![Size          ](https://img.shields.io/github/repo-size/rautaplop/graphplot)](README.md)
+[![View graphplot on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://es.mathworks.com/matlabcentral/fileexchange/77753-graphplot)
 
 A MATLAB/GNU Octave function to plot graphics.
 
