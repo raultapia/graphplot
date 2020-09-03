@@ -5,7 +5,7 @@
 
 % @file   graphplot.m
 % @brief  A MATLAB/GNU Octave function to plot graphics.
-% @author Raul Tapia (github.com/rautaplop).
+% @author Raul Tapia (github.com/raultapia).
 
 function graphplot(x,y,info)
     if(~info.sub)

@@ -1,7 +1,7 @@
 # graphplot
-[![Latest Version](https://img.shields.io/github/release/rautaplop/graphplot)](https://github.com/rautaplop/graphplot/releases)
-[![License       ](https://img.shields.io/github/license/rautaplop/graphplot)](LICENSE)
-[![Size          ](https://img.shields.io/github/repo-size/rautaplop/graphplot)](README.md)
+[![Latest Version](https://img.shields.io/github/release/raultapia/graphplot)](https://github.com/raultapia/graphplot/releases)
+[![License       ](https://img.shields.io/github/license/raultapia/graphplot)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/raultapia/graphplot)](README.md)
 [![View graphplot on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://es.mathworks.com/matlabcentral/fileexchange/77753-graphplot)
 
 A MATLAB/GNU Octave function to plot graphics.
@@ -49,7 +49,7 @@ info.sub = [2,1,2];
 info.print = 'output.png';
 graphplot(x34,{y3,y4},info);
 ```
-![output](https://raw.githubusercontent.com/rautaplop/graphplot/master/doc/output.png)
+![output](https://raw.githubusercontent.com/raultapia/graphplot/master/doc/output.png)
 
 ## 📝 Copyright and license
-Copyright © 2019, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).
+Copyright © 2019, [raultapia](https://github.com/raultapia). Released under the [MIT License](LICENSE).
